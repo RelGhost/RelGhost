@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @RelGhost
+- 👀 I’m interested in web development, game production ,animation, content creation, and hacking 
+- 🌱 I’m currently learning to use react js frontend development
+- 💞️ I’m looking to collaborate on game development web development and content creation
+- 📫 How to reach me gideon.akujobi@gmail.com
+--->
