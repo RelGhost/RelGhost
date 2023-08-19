@@ -1,0 +1,11 @@
+1. Initialize an array `distinctElements` to store distinct elements.
+2. Initialize a variable `sum` to 0.
+3. Read the first set of elements into an array `set1`.
+4. Read the second set of elements into an array `set2`.
+5. For each element `elem1` in `set1`:
+   a. Check if `elem1` is not present in `distinctElements`.
+   b. If not present, add `elem1` to `distinctElements` and add it to `sum`.
+6. For each element `elem2` in `set2`:
+   a. Check if `elem2` is not present in `distinctElements`.
+   b. If not present, add `elem2` to `distinctElements` and add it to `sum`.
+7. Print the sum.
