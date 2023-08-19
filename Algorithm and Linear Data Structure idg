@@ -1,0 +1,29 @@
+<----------Task 1----------->
+
+
+
+1. Initialize variables: wordCount = 0, vowelCount = 0
+2. Read the input sentence (string) ending with a period.
+3. For each character (c) in the sentence:
+     a. If c is a vowel (a, e, i, o, u, A, E, I, O, U):
+          - Increment vowelCount by 1.
+     b. If c is a space:
+          - Increment wordCount by 1.
+4. Increment wordCount by 1 to account for the last word after the period.
+5. Output wordCount and vowelCount.
+
+<----------Task 2----------->
+
+1. Initialize an empty array: distinctElements = []
+2. Initialize sum = 0
+3. Read Set 1 (array of elements)
+4. Read Set 2 (array of elements)
+5. For each element (elem) in Set 1:
+     a. If elem is not in distinctElements:
+          - Append elem to distinctElements.
+6. For each element (elem) in Set 2:
+     a. If elem is not in distinctElements:
+          - Append elem to distinctElements.
+7. For each element (elem) in distinctElements:
+     a. Add elem to sum.
+8. Output sum.
