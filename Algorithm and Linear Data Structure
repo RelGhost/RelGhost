@@ -1,0 +1,7 @@
+1. Initialize variables: wordCount = 0, vowelCount = 0
+2. Read the input sentence until a point is encountered.
+3. For each character in the sentence:
+   a. If the character is a space (' '), increment wordCount.
+   b. If the character is a vowel (a, e, i, o, u, A, E, I, O, U), increment vowelCount.
+4. Increment wordCount by 1 to account for the last word after the point.
+5. Print the wordCount and vowelCount.
